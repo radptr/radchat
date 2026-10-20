@@ -1,0 +1,28 @@
+killer features
+ - nice UI
+  -> yeah... hard
+  -> but doable
+
+ - incremental search in buffer list
+  -> using the input bar itself, change the prefix/prompt
+
+ - mouse scrollable and clickable buffers
+  -> for channels and nicks
+  -> scrollable backlog
+
+ - osc 52 copy paste and selection?
+  -> separate selection mode, like in weechat?
+
+ - (x)dcc
+ - runnel scripting
+ - colored nicks
+ - multiple identities?
+  -> per network
+
+ - view splits, including horizontal
+
+ - helpful hints in various places for the UI
+  -> menu bar?
+
+ - configurable truecolor themes + formatting for widgets
+  -> widget formatting is based on runnel snippets
